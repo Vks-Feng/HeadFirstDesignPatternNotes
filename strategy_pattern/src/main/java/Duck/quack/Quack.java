@@ -1,4 +1,4 @@
-package HeadFirst.Duck.quack;
+package Duck.quack;
 
 public class Quack implements QuackBehavior{
     public void quack() {

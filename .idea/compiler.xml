@@ -9,5 +9,8 @@
         <module name="strategy_pattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="observer_pattern" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,10 +1,10 @@
-package HeadFirst.Duck;
+package Duck;
 
-import HeadFirst.Duck.duck.Duck;
-import HeadFirst.Duck.duck.MallardDuck;
-import HeadFirst.Duck.duck.ModelDuck;
-import HeadFirst.Duck.fly.FlyBehavior;
-import HeadFirst.Duck.fly.FlyRocketPowered;
+import Duck.duck.Duck;
+import Duck.duck.MallardDuck;
+import Duck.duck.ModelDuck;
+import Duck.fly.FlyBehavior;
+import Duck.fly.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

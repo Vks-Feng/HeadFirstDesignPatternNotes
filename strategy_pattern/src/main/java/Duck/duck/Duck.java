@@ -1,7 +1,7 @@
-package HeadFirst.Duck.duck;
+package Duck.duck;
 
-import HeadFirst.Duck.fly.FlyBehavior;
-import HeadFirst.Duck.quack.QuackBehavior;
+import Duck.fly.FlyBehavior;
+import Duck.quack.QuackBehavior;
 
 public abstract class Duck {
     public FlyBehavior flyBehavior;
