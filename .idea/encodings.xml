@@ -3,6 +3,14 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/decorator_pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/decorator_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_pattern/Factory_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_pattern/Factory_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_pattern/just_factory_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_pattern/just_factory_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_pattern/simple_factory_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_pattern/simple_factory_pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factory_pattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/observer_pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/observer_pattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/strategy_pattern/src/main/java" charset="UTF-8" />
