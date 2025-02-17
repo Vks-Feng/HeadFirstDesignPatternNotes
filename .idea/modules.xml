@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/factory_pattern/just_factory_pattern/factory_method_pattern.iml" filepath="$PROJECT_DIR$/factory_pattern/just_factory_pattern/factory_method_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/head_first_code.iml" filepath="$PROJECT_DIR$/.idea/head_first_code.iml" />
     </modules>
   </component>

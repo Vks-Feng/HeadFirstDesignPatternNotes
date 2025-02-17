@@ -7,15 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="decorator_pattern" />
-        <module name="just_factory_pattern" />
-        <module name="simple_factory_pattern" />
         <module name="observer_pattern" />
         <module name="strategy_pattern" />
+        <module name="abstract_factory_pattern" />
+        <module name="factory_method_pattern" />
+        <module name="simple_factory_pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="factory_pattern" target="17" />
+      <module name="factory_method_pattern (1)" target="17" />
       <module name="Factory_pattern (1)" target="17" />
+      <module name="just_factory_pattern" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
